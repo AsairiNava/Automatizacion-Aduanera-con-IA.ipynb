@@ -38,11 +38,8 @@ Todo esto utilizando:
 📂 Estructura del proyecto
 
 ├── app.py                      # Código principal de la app en Streamlit
-
 ├── modelo_hs.pkl              # Modelo de clasificación entrenado
-
 ├── vectorizer_hs.pkl          # Vectorizador TF-IDF entrenado
-
 ├── README.md                  # Este archivo
 
 🚀 Cómo usar la app
