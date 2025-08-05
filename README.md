@@ -1,7 +1,9 @@
 📦 Automatización Aduanera con IA
+
 Este proyecto es un MVP funcional que utiliza técnicas de Procesamiento de Lenguaje Natural (NLP) e inteligencia artificial para automatizar la clasificación arancelaria de productos y generar documentación aduanera de forma eficiente y precisa.
 
 🚨 Problema que resuelve
+
 En el comercio internacional, clasificar productos con su código arancelario (HS Code) correcto y generar documentación aduanera adecuada puede ser un proceso:
 
 - Lento y manual
@@ -9,6 +11,7 @@ En el comercio internacional, clasificar productos con su código arancelario (H
 - Costoso en términos de tiempo y recursos
 
 ✅ Solución propuesta
+
 Esta app web permite:
 
 - Ingresar la descripción de un producto.
@@ -73,4 +76,5 @@ Todo esto utilizando:
 
 👤 Autor
 Asairi Nava – [LinkedIn](https://www.linkedin.com/in/asairi-nava/)
+
 Proyecto parte de una serie de soluciones impulsadas por IA para comercio electrónico y logística.
